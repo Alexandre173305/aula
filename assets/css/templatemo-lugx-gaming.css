@@ -88,7 +88,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1e1e1e;
+  color: #0a898d;
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: 700;
@@ -101,7 +101,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 28px;
-  color: #4a4a4a;
+  color: #15635c;
 }
 
 img {
@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #0071f8;
+  background: #000000;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #0071f8;
+  background: #000000;
   color: #fff;
 }
 
@@ -147,11 +147,11 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #0071f8;
+  color: #000000;
 }
 
 .section-heading h6 {
-  color: #ee626b;
+  color: #000000;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 700;
@@ -651,7 +651,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(../images/boris-stefanik-wxJscL5ZzDA-unsplash.jpg);
   border-radius: 0px 0px 150px 150px;
   background-position: center bottom;
   background-repeat: no-repeat;
