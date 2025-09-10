@@ -118,12 +118,12 @@ body {
 }
 
 ::selection {
-  background: #000000;
+  background: #7e0505;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #000000;
+  background:  #7e0505;
   color: #fff;
 }
 
@@ -270,7 +270,7 @@ Pre-loader Style
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #0071f8;
+  background: #000408;
   border-radius: 50%;
 }
 
@@ -283,7 +283,7 @@ Header Style
 */
 
 .background-header {
-  background-color: #0071f8 !important;
+  background-color: #000408!important;
   border-radius: 0px 0px 25px 25px;
   height: 80px!important;
   position: fixed!important;
