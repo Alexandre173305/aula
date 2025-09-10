@@ -86,7 +86,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #0a898d;
+  color: #580404;
   margin-top: 0px;
   margin-bottom: 0px;
   font-weight: 700;
@@ -157,7 +157,7 @@ body {
 
 .main-button a {
   display: inline-block;
-  background-color: #ee626b;
+  background-color: #7e0505;
   text-transform: uppercase;
   color: #fff;
   font-size: 14px;
@@ -247,7 +247,7 @@ Pre-loader Style
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #8de006;
+  background: #040264;
   border-radius: 50%;
   -webkit-transform: translateX(0);
   transform: translateX(0);
